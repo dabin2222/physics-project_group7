@@ -24,7 +24,7 @@ pip install numpy matplotlib
 ```text
 1. Download or clone this repository to your local machine.
 2. Open your terminal, navigate to the project directory, and run the file using the following command:
-   simulation code.py
+   physics_project_group7.py
 3. Enter the numeric values for the masses (M1, M2, Mp) when prompted in the terminal.
 4. The calculated metrics will be displayed immediately, and a window showing the motion graphs will pop up automatically.
 ```
